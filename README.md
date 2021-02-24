@@ -38,4 +38,4 @@ Mani mīļākie mācību priekšmeti:
 
 ![Bilde](face.jfif)
 
-
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWy8o-Xzj1ruhMIl5uEbB1aviRq3EK4ajnA&usqp=CAU
