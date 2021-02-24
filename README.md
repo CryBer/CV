@@ -17,3 +17,10 @@ Mani mīļākie mācību priekšmeti:
 1. Sistēmu programmēšana
 2. Datorsistēmas un datortīkli 
 3. Preču un pakalpojumu izvēle EIKT infrastruktūras izveide
+
+### Tabula ar atzīmēm
+| Sist. Progr        | DDOS                | EIKT  |
+| -------------      |:-------------:      | -----:|
+|        7           |           8         |   10  |
+|        6           |           9         |    9  |
+|        6           |           7         |   10  |
