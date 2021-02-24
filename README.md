@@ -32,4 +32,7 @@ Mani mīļākie mācību priekšmeti:
 
 ### Bilde
 
-![bilde]zivs.jfif
+<img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWy8o-Xzj1ruhMIl5uEbB1aviRq3EK4ajnA&usqp=CAU
+style="float: left; margin-right: 10px;"/>
+
+
