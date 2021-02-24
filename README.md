@@ -25,6 +25,10 @@ Mani mīļākie mācību priekšmeti:
 |        6           |           9         |    9  |
 |        6           |           7         |   10  |
 
+### Mīļākais priekšmets
+- [x]  Sistēmu programmēšana
+- [ ] Datorsistēmas un datortīkli
+- [ ] Preču un pakalpojumu izvēle EIKT infrastruktūras izveide
 ---
 
 ### Emoji
@@ -32,7 +36,6 @@ Mani mīļākie mācību priekšmeti:
 
 ### Bilde
 
-<img src= https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOWy8o-Xzj1ruhMIl5uEbB1aviRq3EK4ajnA&usqp=CAU
-style="float: left; margin-right: 10px;"/>
+![Bilde](face.jfif)
 
 
