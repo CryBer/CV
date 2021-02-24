@@ -12,3 +12,8 @@ a = int(input("Ievadiet vārdu 'Sveiki'"))
 if a = Sveiki:
     print(Sveiki!)
 ```
+### Saraksts
+Mani mīļākie mācību priekšmeti:
+1. Sistēmu programmēšana
+2. Datorsistēmas un datortīkli 
+3. Preču un pakalpojumu izvēle EIKT infrastruktūras izveide
