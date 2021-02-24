@@ -4,3 +4,7 @@
 
 ## Mans mīļākais citāts: **"Neveiksme – tā ir kārtējā iespēja sākt no jauna, taču jau gudrāk"**
 
+```python
+a = "Sveiki!"
+print s
+```
