@@ -8,6 +8,7 @@
 
 ### Īss koda gabals
 ```python
-a = "Sveiki!"
-print a
+a = int(input("Ievadiet vārdu 'Sveiki'"))
+if a = Sveiki:
+    print(Sveiki!)
 ```
